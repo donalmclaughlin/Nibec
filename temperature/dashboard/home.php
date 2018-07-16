@@ -16,6 +16,7 @@ $getTempresults = mysqli_query($db, "SELECT temperature FROM Temperature WHERE t
 <!DOCTYPE html>
 <html>
 <body>
+<img = src='SafeWater/images/pass.gif'/>
 <table>
 <thead>
     <tr>
